@@ -1,0 +1,15 @@
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.AssemblyInfo.cs
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.exe
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.deps.json
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.runtimeconfig.json
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.dll
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\bin\Debug\net7.0\ExercicioTriangulo.pdb
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.dll
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\refint\ExercicioTriangulo.dll
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.pdb
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ExercicioTriangulo.genruntimeconfig.cache
+D:\Documentos\Estudos\C#\4 - Classes\ExercicioTriangulo\obj\Debug\net7.0\ref\ExercicioTriangulo.dll

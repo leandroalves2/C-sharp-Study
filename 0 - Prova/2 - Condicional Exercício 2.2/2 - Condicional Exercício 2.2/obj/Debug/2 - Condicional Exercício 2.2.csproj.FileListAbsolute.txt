@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\bin\Debug\2 - Condicional Exercício 2.2.exe.config
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\bin\Debug\2 - Condicional Exercício 2.2.exe
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\bin\Debug\2 - Condicional Exercício 2.2.pdb
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\obj\Debug\2 - Condicional Exercício 2.2.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\obj\Debug\2 - Condicional Exercício 2.2.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\obj\Debug\2 - Condicional Exercício 2.2.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\obj\Debug\2 - Condicional Exercício 2.2.exe
+D:\Documentos\Estudos\C#\0 - Prova\2 - Condicional Exercício 2.2\2 - Condicional Exercício 2.2\obj\Debug\2 - Condicional Exercício 2.2.pdb

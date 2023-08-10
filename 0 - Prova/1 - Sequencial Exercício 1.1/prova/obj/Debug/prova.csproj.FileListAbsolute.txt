@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\bin\Debug\prova.exe.config
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\bin\Debug\prova.exe
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\bin\Debug\prova.pdb
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\obj\Debug\prova.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\obj\Debug\prova.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\obj\Debug\prova.exe
+D:\Documentos\Estudos\C#\0 - Prova\prova\prova\obj\Debug\prova.pdb

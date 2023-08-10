@@ -1,0 +1,8 @@
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.pdb
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.exe
+C:\Users\Leandro\Desktop\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.pdb

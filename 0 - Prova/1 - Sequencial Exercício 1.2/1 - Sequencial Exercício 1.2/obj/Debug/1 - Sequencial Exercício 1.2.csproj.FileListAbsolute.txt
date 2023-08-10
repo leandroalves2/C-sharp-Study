@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\bin\Debug\1 - Sequencial Exercício 1.2.exe.config
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\bin\Debug\1 - Sequencial Exercício 1.2.exe
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\bin\Debug\1 - Sequencial Exercício 1.2.pdb
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\obj\Debug\1 - Sequencial Exercício 1.2.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\obj\Debug\1 - Sequencial Exercício 1.2.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\obj\Debug\1 - Sequencial Exercício 1.2.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\obj\Debug\1 - Sequencial Exercício 1.2.exe
+D:\Documentos\Estudos\C#\0 - Prova\1 - Sequencial Exercício 1.2\1 - Sequencial Exercício 1.2\obj\Debug\1 - Sequencial Exercício 1.2.pdb

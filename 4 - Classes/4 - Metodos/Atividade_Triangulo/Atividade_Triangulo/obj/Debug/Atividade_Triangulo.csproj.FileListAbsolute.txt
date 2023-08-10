@@ -1,0 +1,8 @@
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\bin\Debug\Atividade_Triangulo.exe.config
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\bin\Debug\Atividade_Triangulo.exe
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\bin\Debug\Atividade_Triangulo.pdb
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\obj\Debug\Atividade_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\obj\Debug\Atividade_Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\obj\Debug\Atividade_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\obj\Debug\Atividade_Triangulo.exe
+C:\Users\Leandro\Desktop\Atividade_Triangulo\Atividade_Triangulo\obj\Debug\Atividade_Triangulo.pdb

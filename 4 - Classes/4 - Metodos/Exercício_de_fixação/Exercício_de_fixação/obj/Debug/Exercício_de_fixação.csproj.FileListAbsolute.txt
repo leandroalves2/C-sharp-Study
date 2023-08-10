@@ -1,0 +1,8 @@
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\bin\Debug\Exercício_de_fixação.exe.config
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\bin\Debug\Exercício_de_fixação.exe
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\bin\Debug\Exercício_de_fixação.pdb
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\obj\Debug\Exercício_de_fixação.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\obj\Debug\Exercício_de_fixação.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\obj\Debug\Exercício_de_fixação.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\obj\Debug\Exercício_de_fixação.exe
+C:\Users\Leandro\Desktop\Exercício_de_fixação\Exercício_de_fixação\obj\Debug\Exercício_de_fixação.pdb

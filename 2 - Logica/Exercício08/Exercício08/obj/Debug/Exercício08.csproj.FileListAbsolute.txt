@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\bin\Debug\Exercício08.exe.config
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\bin\Debug\Exercício08.exe
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\bin\Debug\Exercício08.pdb
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\obj\Debug\Exercício08.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\obj\Debug\Exercício08.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\obj\Debug\Exercício08.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\obj\Debug\Exercício08.exe
+D:\Documentos\Estudos\C#\2 - Logica\Exercício08\Exercício08\obj\Debug\Exercício08.pdb

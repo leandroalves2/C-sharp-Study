@@ -1,0 +1,8 @@
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\bin\Debug\Atividade_TV.exe.config
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\bin\Debug\Atividade_TV.exe
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\bin\Debug\Atividade_TV.pdb
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\obj\Debug\Atividade_TV.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\obj\Debug\Atividade_TV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\obj\Debug\Atividade_TV.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\obj\Debug\Atividade_TV.exe
+C:\Users\Leandro\Desktop\Atividade_TV\Atividade_TV\obj\Debug\Atividade_TV.pdb
