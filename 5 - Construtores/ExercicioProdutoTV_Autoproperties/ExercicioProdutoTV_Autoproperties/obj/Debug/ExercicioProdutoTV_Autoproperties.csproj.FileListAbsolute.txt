@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\bin\Debug\ExercicioProdutoTV_Autoproperties.exe.config
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\bin\Debug\ExercicioProdutoTV_Autoproperties.exe
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\bin\Debug\ExercicioProdutoTV_Autoproperties.pdb
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\obj\Debug\ExercicioProdutoTV_Autoproperties.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\obj\Debug\ExercicioProdutoTV_Autoproperties.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\obj\Debug\ExercicioProdutoTV_Autoproperties.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\obj\Debug\ExercicioProdutoTV_Autoproperties.exe
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioProdutoTV_Autoproperties\ExercicioProdutoTV_Autoproperties\obj\Debug\ExercicioProdutoTV_Autoproperties.pdb

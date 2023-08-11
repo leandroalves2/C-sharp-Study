@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\ExercicioFixacaoBanco.exe.config
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\ExercicioFixacaoBanco.exe
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\ExercicioFixacaoBanco.pdb
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\ExercicioFixacaoBanco.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\ExercicioFixacaoBanco.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\ExercicioFixacaoBanco.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\ExercicioFixacaoBanco.exe
+D:\Documentos\Estudos\C#\5 - construtores\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\ExercicioFixacaoBanco.pdb

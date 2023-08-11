@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\bin\Debug\1_Exercicio_GetSet.exe.config
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\bin\Debug\1_Exercicio_GetSet.exe
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\bin\Debug\1_Exercicio_GetSet.pdb
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\obj\Debug\1_Exercicio_GetSet.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\obj\Debug\1_Exercicio_GetSet.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\obj\Debug\1_Exercicio_GetSet.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\obj\Debug\1_Exercicio_GetSet.exe
+D:\Documentos\Estudos\C#\5 - construtores\1_Exercicio_GetSet\1_Exercicio_GetSet\obj\Debug\1_Exercicio_GetSet.pdb
