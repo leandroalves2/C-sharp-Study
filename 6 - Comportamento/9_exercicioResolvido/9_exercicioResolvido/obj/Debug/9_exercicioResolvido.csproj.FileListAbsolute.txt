@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\bin\Debug\9_exercicioResolvido.exe.config
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\bin\Debug\9_exercicioResolvido.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\bin\Debug\9_exercicioResolvido.pdb
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\obj\Debug\9_exercicioResolvido.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\obj\Debug\9_exercicioResolvido.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\obj\Debug\9_exercicioResolvido.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\obj\Debug\9_exercicioResolvido.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\9_exercicioResolvido\9_exercicioResolvido\obj\Debug\9_exercicioResolvido.pdb

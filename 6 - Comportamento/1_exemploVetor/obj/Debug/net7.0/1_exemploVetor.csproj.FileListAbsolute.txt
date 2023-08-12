@@ -1,0 +1,5 @@
+D:\Documentos\Estudos\C#\6 - Comportamento\1_exemploVetor\obj\Debug\net7.0\1_exemploVetor.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\1_exemploVetor\obj\Debug\net7.0\1_exemploVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\C#\6 - Comportamento\1_exemploVetor\obj\Debug\net7.0\1_exemploVetor.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\1_exemploVetor\obj\Debug\net7.0\1_exemploVetor.AssemblyInfo.cs
+D:\Documentos\Estudos\C#\6 - Comportamento\1_exemploVetor\obj\Debug\net7.0\1_exemploVetor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\bin\Debug\5_exemplo_params.exe.config
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\bin\Debug\5_exemplo_params.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\bin\Debug\5_exemplo_params.pdb
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\obj\Debug\5_exemplo_params.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\obj\Debug\5_exemplo_params.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\obj\Debug\5_exemplo_params.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\obj\Debug\5_exemplo_params.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\5_exemplo_params\5_exemplo_params\obj\Debug\5_exemplo_params.pdb

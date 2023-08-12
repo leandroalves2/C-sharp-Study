@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\bin\Debug\6_exemplo_ref.exe.config
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\bin\Debug\6_exemplo_ref.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\bin\Debug\6_exemplo_ref.pdb
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\obj\Debug\6_exemplo_ref.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\obj\Debug\6_exemplo_ref.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\obj\Debug\6_exemplo_ref.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\obj\Debug\6_exemplo_ref.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\6_exemplo_ref\6_exemplo_ref\obj\Debug\6_exemplo_ref.pdb

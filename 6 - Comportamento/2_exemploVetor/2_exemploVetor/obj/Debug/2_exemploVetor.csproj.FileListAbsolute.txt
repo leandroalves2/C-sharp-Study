@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\bin\Debug\2_exemploVetor.exe.config
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\bin\Debug\2_exemploVetor.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\bin\Debug\2_exemploVetor.pdb
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\obj\Debug\2_exemploVetor.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\obj\Debug\2_exemploVetor.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\obj\Debug\2_exemploVetor.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\obj\Debug\2_exemploVetor.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\2_exemploVetor\2_exemploVetor\obj\Debug\2_exemploVetor.pdb

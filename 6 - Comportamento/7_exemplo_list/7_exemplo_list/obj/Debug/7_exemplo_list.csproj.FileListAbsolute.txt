@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\bin\Debug\7_exemplo_list.exe.config
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\bin\Debug\7_exemplo_list.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\bin\Debug\7_exemplo_list.pdb
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\obj\Debug\7_exemplo_list.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\obj\Debug\7_exemplo_list.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\obj\Debug\7_exemplo_list.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\obj\Debug\7_exemplo_list.exe
+D:\Documentos\Estudos\C#\6 - Comportamento\7_exemplo_list\7_exemplo_list\obj\Debug\7_exemplo_list.pdb
