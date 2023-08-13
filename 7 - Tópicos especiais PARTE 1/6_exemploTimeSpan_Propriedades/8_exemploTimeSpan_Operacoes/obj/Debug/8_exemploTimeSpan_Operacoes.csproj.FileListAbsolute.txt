@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\bin\Debug\8_exemploTimeSpan_Operacoes.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\bin\Debug\8_exemploTimeSpan_Operacoes.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\bin\Debug\8_exemploTimeSpan_Operacoes.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\obj\Debug\8_exemploTimeSpan_Operacoes.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\obj\Debug\8_exemploTimeSpan_Operacoes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\obj\Debug\8_exemploTimeSpan_Operacoes.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\obj\Debug\8_exemploTimeSpan_Operacoes.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploTimeSpan_Operacoes\8_exemploTimeSpan_Operacoes\obj\Debug\8_exemploTimeSpan_Operacoes.pdb

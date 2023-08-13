@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\bin\Debug\7_exemploDateTime_Operacoes.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\bin\Debug\7_exemploDateTime_Operacoes.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\bin\Debug\7_exemploDateTime_Operacoes.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\obj\Debug\7_exemploDateTime_Operacoes.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\obj\Debug\7_exemploDateTime_Operacoes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\obj\Debug\7_exemploDateTime_Operacoes.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\obj\Debug\7_exemploDateTime_Operacoes.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploDateTime_Operacoes\7_exemploDateTime_Operacoes\obj\Debug\7_exemploDateTime_Operacoes.pdb

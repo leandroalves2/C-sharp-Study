@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\bin\Debug\8_exemploISO8601.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\bin\Debug\8_exemploISO8601.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\bin\Debug\8_exemploISO8601.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\obj\Debug\8_exemploISO8601.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\obj\Debug\8_exemploISO8601.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\obj\Debug\8_exemploISO8601.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\obj\Debug\8_exemploISO8601.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\8_exemploISO8601\8_exemploISO8601\obj\Debug\8_exemploISO8601.pdb

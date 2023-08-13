@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\bin\Debug\4_exemploFuncoesStrings.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\bin\Debug\4_exemploFuncoesStrings.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\bin\Debug\4_exemploFuncoesStrings.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\obj\Debug\4_exemploFuncoesStrings.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\obj\Debug\4_exemploFuncoesStrings.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\obj\Debug\4_exemploFuncoesStrings.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\obj\Debug\4_exemploFuncoesStrings.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\4_exemploFuncoesStrings\4_exemploFuncoesStrings\obj\Debug\4_exemploFuncoesStrings.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\obj\Debug\5_exemploTimeSpan.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\obj\Debug\5_exemploTimeSpan.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\obj\Debug\5_exemploTimeSpan.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\bin\Debug\5_exemploTimeSpan.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\bin\Debug\5_exemploTimeSpan.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\bin\Debug\5_exemploTimeSpan.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\obj\Debug\5_exemploTimeSpan.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploTimeSpan\5_exemploTimeSpan\obj\Debug\5_exemploTimeSpan.pdb

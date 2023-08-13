@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\bin\Debug\1_exemploVar.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\bin\Debug\1_exemploVar.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\bin\Debug\1_exemploVar.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\obj\Debug\1_exemploVar.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\obj\Debug\1_exemploVar.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\obj\Debug\1_exemploVar.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\obj\Debug\1_exemploVar.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploVar\1_exemploVar\obj\Debug\1_exemploVar.pdb

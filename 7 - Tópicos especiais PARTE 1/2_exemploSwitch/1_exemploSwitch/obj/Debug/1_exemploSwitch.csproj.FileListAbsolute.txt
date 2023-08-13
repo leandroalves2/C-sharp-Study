@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\bin\Debug\1_exemploSwitch.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\bin\Debug\1_exemploSwitch.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\bin\Debug\1_exemploSwitch.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\obj\Debug\1_exemploSwitch.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\obj\Debug\1_exemploSwitch.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\obj\Debug\1_exemploSwitch.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\obj\Debug\1_exemploSwitch.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\1_exemploSwitch\1_exemploSwitch\obj\Debug\1_exemploSwitch.pdb

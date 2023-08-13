@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\bin\Debug\7_exemploTimeKind.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\bin\Debug\7_exemploTimeKind.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\bin\Debug\7_exemploTimeKind.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\obj\Debug\7_exemploTimeKind.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\obj\Debug\7_exemploTimeKind.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\obj\Debug\7_exemploTimeKind.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\obj\Debug\7_exemploTimeKind.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\7_exemploTimeKind\7_exemploTimeKind\obj\Debug\7_exemploTimeKind.pdb

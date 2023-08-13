@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\bin\Debug\3_exemploTernaria.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\bin\Debug\3_exemploTernaria.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\bin\Debug\3_exemploTernaria.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\obj\Debug\3_exemploTernaria.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\obj\Debug\3_exemploTernaria.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\obj\Debug\3_exemploTernaria.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\obj\Debug\3_exemploTernaria.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\3_exemploTernaria\3_exemploTernaria\obj\Debug\3_exemploTernaria.pdb

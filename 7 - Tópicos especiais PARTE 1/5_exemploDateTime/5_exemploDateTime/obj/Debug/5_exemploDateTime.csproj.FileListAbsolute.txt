@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\bin\Debug\5_exemploDateTime.exe.config
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\bin\Debug\5_exemploDateTime.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\bin\Debug\5_exemploDateTime.pdb
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\obj\Debug\5_exemploDateTime.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\obj\Debug\5_exemploDateTime.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\obj\Debug\5_exemploDateTime.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\obj\Debug\5_exemploDateTime.exe
+D:\Documentos\Estudos\C#\7 - Tópicos especiais PARTE 1\5_exemploDateTime\5_exemploDateTime\obj\Debug\5_exemploDateTime.pdb

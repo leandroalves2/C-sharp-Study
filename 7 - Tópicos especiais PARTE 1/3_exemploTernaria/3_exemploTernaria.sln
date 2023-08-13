@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_exemploTernaria", "3_exemploTernaria\3_exemploTernaria.csproj", "{30A47392-1928-49AE-A918-7501B2CAF8D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A47392-1928-49AE-A918-7501B2CAF8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A47392-1928-49AE-A918-7501B2CAF8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A47392-1928-49AE-A918-7501B2CAF8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A47392-1928-49AE-A918-7501B2CAF8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B5D70A-002E-4EBA-91BA-6A0ECB75D273}
+	EndGlobalSection
+EndGlobal
