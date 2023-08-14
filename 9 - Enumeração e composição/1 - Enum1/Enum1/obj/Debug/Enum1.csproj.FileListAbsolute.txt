@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\bin\Debug\Enum1.exe.config
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\bin\Debug\Enum1.exe
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\bin\Debug\Enum1.pdb
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\obj\Debug\Enum1.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\obj\Debug\Enum1.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\obj\Debug\Enum1.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\obj\Debug\Enum1.exe
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\Enum1\Enum1\obj\Debug\Enum1.pdb

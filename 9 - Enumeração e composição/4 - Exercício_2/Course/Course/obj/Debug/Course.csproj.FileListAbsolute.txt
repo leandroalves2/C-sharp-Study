@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\obj\Debug\Course.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\bin\Debug\Course.exe.config
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\bin\Debug\Course.exe
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\bin\Debug\Course.pdb
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\obj\Debug\Course.exe
+D:\Documentos\Estudos\C#\9 - Enumeração e composição\4 - Exercício_2\Course\Course\obj\Debug\Course.pdb
