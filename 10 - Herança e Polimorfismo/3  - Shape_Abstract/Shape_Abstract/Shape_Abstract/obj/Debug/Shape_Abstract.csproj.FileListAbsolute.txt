@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\obj\Debug\Shape_Abstract.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\obj\Debug\Shape_Abstract.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\obj\Debug\Shape_Abstract.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\bin\Debug\Shape_Abstract.exe.config
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\bin\Debug\Shape_Abstract.exe
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\bin\Debug\Shape_Abstract.pdb
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\obj\Debug\Shape_Abstract.exe
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Shape_Abstract\Shape_Abstract\Shape_Abstract\obj\Debug\Shape_Abstract.pdb

@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\bin\Debug\Taxes.exe.config
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\bin\Debug\Taxes.exe
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\bin\Debug\Taxes.pdb
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\obj\Debug\Taxes.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\obj\Debug\Taxes.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\obj\Debug\Taxes.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\obj\Debug\Taxes.exe
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\3  - Taxes_Abstract\Taxes\Taxes\obj\Debug\Taxes.pdb

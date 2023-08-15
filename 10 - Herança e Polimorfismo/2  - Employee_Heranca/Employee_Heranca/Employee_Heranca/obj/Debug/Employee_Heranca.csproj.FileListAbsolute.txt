@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\bin\Debug\Employee_Heranca.exe.config
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\bin\Debug\Employee_Heranca.exe
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\bin\Debug\Employee_Heranca.pdb
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\obj\Debug\Employee_Heranca.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\obj\Debug\Employee_Heranca.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\obj\Debug\Employee_Heranca.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\obj\Debug\Employee_Heranca.exe
+D:\Documentos\Estudos\C#\10 - Herança e Polimorfismo\2  - Employee_Heranca\Employee_Heranca\Employee_Heranca\obj\Debug\Employee_Heranca.pdb
