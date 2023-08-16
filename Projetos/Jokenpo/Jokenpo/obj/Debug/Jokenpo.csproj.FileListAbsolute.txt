@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\Leandro\Desktop\Nova pasta\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+D:\Documentos\Estudos\ainda nao subi pro git\Projetos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
