@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

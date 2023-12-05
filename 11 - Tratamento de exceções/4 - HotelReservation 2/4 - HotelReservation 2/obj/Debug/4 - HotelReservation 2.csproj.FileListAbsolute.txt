@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\bin\Debug\4 - HotelReservation 2.exe.config
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\bin\Debug\4 - HotelReservation 2.exe
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\bin\Debug\4 - HotelReservation 2.pdb
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\obj\Debug\4 - HotelReservation 2.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\obj\Debug\4 - HotelReservation 2.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\obj\Debug\4 - HotelReservation 2.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\obj\Debug\4 - HotelReservation 2.exe
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\4 - HotelReservation 2\4 - HotelReservation 2\obj\Debug\4 - HotelReservation 2.pdb

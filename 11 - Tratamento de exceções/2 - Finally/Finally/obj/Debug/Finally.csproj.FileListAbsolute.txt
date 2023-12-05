@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\bin\Debug\Finally.exe.config
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\bin\Debug\Finally.exe
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\bin\Debug\Finally.pdb
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\obj\Debug\Finally.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\obj\Debug\Finally.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\obj\Debug\Finally.exe
+D:\Documentos\Estudos\C#\11 - Tratamento de exceções\Finally\Finally\obj\Debug\Finally.pdb
