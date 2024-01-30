@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\bin\Debug\2 - FileStream_and_StreamReader.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\bin\Debug\2 - FileStream_and_StreamReader.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\bin\Debug\2 - FileStream_and_StreamReader.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\obj\Debug\2 - FileStream_and_StreamReader.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\obj\Debug\2 - FileStream_and_StreamReader.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\obj\Debug\2 - FileStream_and_StreamReader.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\obj\Debug\2 - FileStream_and_StreamReader.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\2 - FileStream_and_StreamReader\2 - FileStream_and_StreamReader\obj\Debug\2 - FileStream_and_StreamReader.pdb

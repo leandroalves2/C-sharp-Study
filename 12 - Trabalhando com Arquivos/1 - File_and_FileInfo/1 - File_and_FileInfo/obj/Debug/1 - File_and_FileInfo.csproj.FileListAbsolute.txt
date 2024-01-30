@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\bin\Debug\1 - File_and_FileInfo.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\bin\Debug\1 - File_and_FileInfo.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\bin\Debug\1 - File_and_FileInfo.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\obj\Debug\1 - File_and_FileInfo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\obj\Debug\1 - File_and_FileInfo.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\obj\Debug\1 - File_and_FileInfo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\obj\Debug\1 - File_and_FileInfo.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\1 - File_and_FileInfo\1 - File_and_FileInfo\obj\Debug\1 - File_and_FileInfo.pdb

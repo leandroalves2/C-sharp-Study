@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\bin\Debug\4 - StreamWriter.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\bin\Debug\4 - StreamWriter.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\bin\Debug\4 - StreamWriter.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\obj\Debug\4 - StreamWriter.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\obj\Debug\4 - StreamWriter.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\obj\Debug\4 - StreamWriter.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\obj\Debug\4 - StreamWriter.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\4 - StreamWriter\4 - StreamWriter\obj\Debug\4 - StreamWriter.pdb

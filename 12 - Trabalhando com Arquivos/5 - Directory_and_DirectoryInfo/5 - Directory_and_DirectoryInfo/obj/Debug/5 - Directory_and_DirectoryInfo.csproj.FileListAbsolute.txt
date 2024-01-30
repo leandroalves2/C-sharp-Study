@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\bin\Debug\5 - Directory_and_DirectoryInfo.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\bin\Debug\5 - Directory_and_DirectoryInfo.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\bin\Debug\5 - Directory_and_DirectoryInfo.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\obj\Debug\5 - Directory_and_DirectoryInfo.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\obj\Debug\5 - Directory_and_DirectoryInfo.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\obj\Debug\5 - Directory_and_DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\obj\Debug\5 - Directory_and_DirectoryInfo.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\5 - Directory_and_DirectoryInfo\5 - Directory_and_DirectoryInfo\obj\Debug\5 - Directory_and_DirectoryInfo.pdb

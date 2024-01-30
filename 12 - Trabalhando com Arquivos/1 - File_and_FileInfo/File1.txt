@@ -1,0 +1,5 @@
+File
+FileInfo
+IOException
+
+Realiza operações com arquivos (create, copy, delete, move, open, etc.) e ajuda na criação de objetos FileStream.

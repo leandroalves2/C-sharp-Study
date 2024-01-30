@@ -1,0 +1,2 @@
+É uma stream capaz de escrever caracteres a partir de uma stream binária (ex: FileStream).
+Suporte a dados no formato de texto.

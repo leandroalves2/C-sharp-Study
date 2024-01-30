@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\bin\Debug\3 - using_block.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\bin\Debug\3 - using_block.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\bin\Debug\3 - using_block.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\obj\Debug\3 - using_block.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\obj\Debug\3 - using_block.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\obj\Debug\3 - using_block.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\obj\Debug\3 - using_block.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\3 - using_block\3 - using_block\obj\Debug\3 - using_block.pdb

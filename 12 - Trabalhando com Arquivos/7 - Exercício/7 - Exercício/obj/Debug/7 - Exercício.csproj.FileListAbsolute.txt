@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\bin\Debug\7 - Exercício.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\bin\Debug\7 - Exercício.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\bin\Debug\7 - Exercício.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\obj\Debug\7 - Exercício.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\obj\Debug\7 - Exercício.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\obj\Debug\7 - Exercício.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\obj\Debug\7 - Exercício.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\7 - Exercício\7 - Exercício\obj\Debug\7 - Exercício.pdb

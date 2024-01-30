@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\bin\Debug\6 - Path.exe.config
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\bin\Debug\6 - Path.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\bin\Debug\6 - Path.pdb
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\obj\Debug\6 - Path.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\obj\Debug\6 - Path.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\obj\Debug\6 - Path.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\obj\Debug\6 - Path.exe
+D:\Documentos\Estudos\C#\12 - Trabalhando com Arquivos\6 - Path\6 - Path\obj\Debug\6 - Path.pdb
