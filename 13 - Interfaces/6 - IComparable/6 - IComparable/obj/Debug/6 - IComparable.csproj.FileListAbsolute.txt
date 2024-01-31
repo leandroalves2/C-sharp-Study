@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\obj\Debug\6 - IComparable.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\obj\Debug\6 - IComparable.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\obj\Debug\6 - IComparable.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\bin\Debug\6 - IComparable.exe.config
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\bin\Debug\6 - IComparable.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\bin\Debug\6 - IComparable.pdb
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\obj\Debug\6 - IComparable.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\6 - IComparable\6 - IComparable\obj\Debug\6 - IComparable.pdb

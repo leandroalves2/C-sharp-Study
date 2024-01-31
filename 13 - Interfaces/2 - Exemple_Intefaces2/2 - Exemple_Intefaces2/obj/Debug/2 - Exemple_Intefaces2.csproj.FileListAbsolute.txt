@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\bin\Debug\2 - Exemple_Intefaces2.exe.config
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\bin\Debug\2 - Exemple_Intefaces2.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\bin\Debug\2 - Exemple_Intefaces2.pdb
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\obj\Debug\2 - Exemple_Intefaces2.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\obj\Debug\2 - Exemple_Intefaces2.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\obj\Debug\2 - Exemple_Intefaces2.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\obj\Debug\2 - Exemple_Intefaces2.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\2 - Exemple_Intefaces2\2 - Exemple_Intefaces2\obj\Debug\2 - Exemple_Intefaces2.pdb

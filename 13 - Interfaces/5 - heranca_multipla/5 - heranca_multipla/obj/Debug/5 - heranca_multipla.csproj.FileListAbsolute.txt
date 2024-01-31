@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\obj\Debug\5 - heranca_multipla.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\obj\Debug\5 - heranca_multipla.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\obj\Debug\5 - heranca_multipla.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\bin\Debug\5 - heranca_multipla.exe.config
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\bin\Debug\5 - heranca_multipla.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\bin\Debug\5 - heranca_multipla.pdb
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\obj\Debug\5 - heranca_multipla.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\5 - heranca_multipla\5 - heranca_multipla\obj\Debug\5 - heranca_multipla.pdb

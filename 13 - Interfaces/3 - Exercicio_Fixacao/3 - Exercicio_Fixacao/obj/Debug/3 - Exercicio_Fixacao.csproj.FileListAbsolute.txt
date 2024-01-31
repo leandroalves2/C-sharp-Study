@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\bin\Debug\3 - Exercicio_Fixacao.exe.config
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\bin\Debug\3 - Exercicio_Fixacao.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\bin\Debug\3 - Exercicio_Fixacao.pdb
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\obj\Debug\3 - Exercicio_Fixacao.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\obj\Debug\3 - Exercicio_Fixacao.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\obj\Debug\3 - Exercicio_Fixacao.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\obj\Debug\3 - Exercicio_Fixacao.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\3 - Exercicio_Fixacao\3 - Exercicio_Fixacao\obj\Debug\3 - Exercicio_Fixacao.pdb

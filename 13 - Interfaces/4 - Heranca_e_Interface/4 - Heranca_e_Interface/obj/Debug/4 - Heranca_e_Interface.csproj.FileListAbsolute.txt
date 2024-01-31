@@ -1,0 +1,8 @@
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\bin\Debug\4 - Heranca_e_Interface.exe.config
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\bin\Debug\4 - Heranca_e_Interface.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\bin\Debug\4 - Heranca_e_Interface.pdb
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\obj\Debug\4 - Heranca_e_Interface.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\obj\Debug\4 - Heranca_e_Interface.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\obj\Debug\4 - Heranca_e_Interface.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\obj\Debug\4 - Heranca_e_Interface.exe
+D:\Documentos\Estudos\C#\13 - Interfaces\4 - Heranca_e_Interface\4 - Heranca_e_Interface\obj\Debug\4 - Heranca_e_Interface.pdb
